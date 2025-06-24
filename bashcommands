@@ -1,0 +1,10 @@
+ls - list the files and folders
+cd - change the direcotry to which you want to 
+pwd - prints te present working directory (current working directory)
+echo - Dispaly or prints a line of text
+cat - Display the content of the file
+cp - copy files and directories
+mv - moves or renames a file or folder
+rm - used to delete the file or folder
+touch - create a empty file
+mkdir - create a new directory (mk- stands for make and dir- satnds for directory)
